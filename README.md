@@ -34,12 +34,11 @@ application:
 
 <h4>Class Components</h4>
 
-- Benifits
-  <p> 
-  * Easier code organization
-  * Can use 'state'(another React system) -->Make it easier to handle user input
-  * Understands lifecycle events --> Make it easier to do things when the app first starts
-  </p>
+<h4>Benifits</h4>
+  
+* Easier code organization
+* Can use 'state'(another React system) -->Make it easier to handle user input
+* Understands lifecycle events --> Make it easier to do things when the app first starts
 
 <h4>State</h4>
 
