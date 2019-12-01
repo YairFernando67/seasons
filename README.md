@@ -1,3 +1,90 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h2 align="center"> Class Based Components with react </h2>
+
+  <p align="center">
+    Project developed with React that implements different components to
+    highlight their use and how to make them reusable with the props system.
+    Using a class base component to make use of the state in React
+    <br />
+    <a href="https://github.com/YairFernando67/seasons"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/YairFernando67/seasons/issues">Report Bug</a>
+    ·
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+In this project we highlight how to use class base components in a REACT
+application:
+
+<h4>Class Components</h4>
+
+<h4>Benifits</h4>
+  
+* Easier code organization
+* Can use 'state'(another React system) -->Make it easier to handle user input
+* Understands lifecycle events --> Make it easier to do things when the app first starts
+
+<h4>State</h4>
+
+* It its only usable with class base components --> Technically can be used with functional components using the "hooks" system
+* You will confuse props with state
+* 'State' is a JS object that contains data relevant to a component
+* Updating 'state' on a component causes the component to (almost) instantly rerender
+* State must be initialized when a component is created
+* State can only be updated using the function 'setState'
+
+### Built With
+
+The project was developed using these tools and technologies.
+
+- [REACT](https://es.reactjs.org/)
+- [JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+<!-- CONTACT -->
+
+## Contact
+
+<p align="center">
+  Yair Fernando Facio Fraga - [YairFernando67](https://github.com/YairFernando67) - <a target="_blank"      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com" class="tooltip"  title="Email me">
+    yair.facio11@gmail.com
+  </a>
+  <p align="center">
+  Project Link: [https://github.com/YairFernando67/seasons](https://github.com/YairFernando67/seasons)
+  </p>
+</p>
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a target="_blank" href="https://yairfernando67.github.io/Portfolio/">
+        Portfolio
+    </a> &nbsp; |
+    <a target="_blank" href="https://www.linkedin.com/in/softwaredeveloperyairfacio/">
+      LinkedIn
+    </a> &nbsp; |
+    <a target="_blank" href="https://twitter.com/YairFernando18">
+      Twitter
+    </a>
+</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+<!-- ## Acknowledgements
+* [Normalize.css](https://necolas.github.io/normalize.css/) -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
